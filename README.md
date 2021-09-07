@@ -1,2 +1,1 @@
-# Bing_Spider
-爬虫文件
+# image_spiders_for--several--sites
